@@ -50,7 +50,7 @@ When looking at the grade-level charts consider the following questions:
 - Are there interesting outliers?
 - What similarities or differences do you notice across grades?
 
-* see the R file for charts*
+*see the R file for charts*
 
 ## PARCC Connection
 - MAP is meant to predict student performance on PARCC
