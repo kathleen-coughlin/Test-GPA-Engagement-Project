@@ -267,4 +267,3 @@ WinterAnalysis %>%
     labs(title= "Winter Math MAP vs. STEM GPA", subtitle="9th Grade", x= "STEM GPA", y="Math MAP Score", color= "Disengaged?")+
     scale_color_manual(values=c("black", "red"), labels=c("Engaged", "Disengaged"))+
     theme_bw()
-
