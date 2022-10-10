@@ -2,6 +2,8 @@
 ## Winter 2018
 ## Kathleen Coughlin
 
+https://docs.google.com/presentation/d/1mEwXGY75HkqQdnka33lga5RFcatYE8jZNmXcvx13UgU/edit?usp=sharing 
+
 ## Objective
 Determine how student GPA relates to performance on the MAP standardized assessment. 
 
